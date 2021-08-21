@@ -25,7 +25,7 @@ function isEven(x){
 
 let newarr=arr1.filter(isEven);
 
-console.log(newarr);
+console.log(newarr); a
 
 
 
