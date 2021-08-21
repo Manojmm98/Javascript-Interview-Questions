@@ -12,6 +12,21 @@
 // console.log(typeof value);
 
 
-function handleClick(){
-    document.getElementById('page-header').innerHTML="No you are not"
-}
+// function handleClick(){
+//     document.getElementById('page-header').innerHTML="No you are not"
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
