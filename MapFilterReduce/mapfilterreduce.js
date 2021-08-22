@@ -25,7 +25,22 @@ function isEven(x){
 
 let newarr=arr1.filter(isEven);
 
-console.log(newarr); a
+console.log(newarr); 
+
+
+// reduce Method--> it will take argument as a function and that function will take two arguments 
+// and thsi will work according to our returned value
+
+
+let array = ["this ","is ","a ","string " ]
+
+function concat(x,y){
+    return x + y;
+}
+
+let rans = array.reduce(concat);
+
+console.log(rans);
 
 
 
