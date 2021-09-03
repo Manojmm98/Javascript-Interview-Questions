@@ -119,7 +119,54 @@ let arr = [2,3,4,5,6];
 
 
 
+  //let a = "This only works if and only if";
 
+  //let b = a.slice(a.indexOf("only"));
+  //console.log(a.indexOf("only"));
+  //console.log(b);
+  
+  //let c = b.lastIndexOf("only");
+  
+ // b[c] = "i";
+
+
+
+
+
+ 
+// console.log(b);
+
+
+let str = 'Manoj a  good boy'
+str[10]='i'
+
+console.log(str[10]='i'
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
