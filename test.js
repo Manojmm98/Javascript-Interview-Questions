@@ -99,7 +99,7 @@
 //   console.log(isEven(-1));
 //   // → false
 
-let arr = [2,3,4,5,6];
+//let arr = [2,3,4,5,6];
 // function range(start,end,step){
 //     for(let i=start;i<=end;i++){
 //         let value = arr.push(i);
@@ -137,11 +137,57 @@ let arr = [2,3,4,5,6];
 // console.log(b);
 
 
-let str = 'Manoj a  good boy'
-str[10]='i'
+// let str = 'Manoj a  good boy'
+// str[10]='i'
 
-console.log(str[10]='i'
-);
+// console.log(str[10]='i'
+// );
+
+
+
+// function f() {
+//   let sum =0;
+//   for(let i=0; i<arguments.length; i++) {
+//     sum+= arguments[i];
+//   }
+//   return sum;
+// }
+
+// console.log(f(2, 3, 4, 5));
+
+// function add(){
+//   let sum =0;
+//   for(let i = 0; i < arguments.length; i++){
+//     sum+= arguments[i];
+//   }
+//   return sum;
+// }
+
+// console.log(add(12,23,3,22));
+
+
+
+function add(){
+  let sum = 0;
+  for(let i = 0;i< arguments.lenght;i++){
+  sum =sum+arguments[i]
+  
+  }
+  return sum;
+  
+  }
+  console.log(add(12,23,3,22))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
